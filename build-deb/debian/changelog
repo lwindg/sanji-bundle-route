@@ -1,3 +1,9 @@
+sanji-bundle-route (1.0.2+1) unstable; urgency=low
+
+  * Feat: Support `status` and `wan`.
+
+ -- Aeluin Chen <aeluin.chen@moxa.com>  Tue, 17 Jan 2017 14:33:27 +0800
+
 sanji-bundle-route (1.0.2) unstable; urgency=low
 
   * Update pip deps.
